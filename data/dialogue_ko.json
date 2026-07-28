@@ -1,0 +1,60 @@
+{
+  "prologue_start": {
+	"lines": [
+	  {"speaker": "국어 선생님", "text": "자, 다음 발표자. 동훈 학생, 준비됐니?"},
+	  {"speaker": "동훈", "text": "네...! 자료는 Drive에 있어서 바로 열게요..."},
+	  {"speaker": "동급생", "text": "(수근거림) 또 구글 로그인이야?"}
+	]
+  },
+  "login_fail": {
+	"lines": [
+	  {"speaker": "시스템", "text": "세션이 만료되었습니다. 다시 로그인하세요."},
+	  {"speaker": "동훈", "text": "아... 아니 왜 지금...!!"},
+	  {"speaker": "국어 선생님", "text": "동훈, 자료 언제 열어?"},
+	  {"speaker": "동훈", "text": "(속으로) 일단 복도라도 나가서 방법을 찾아야 해..."}
+	]
+  },
+  "it_teacher_intro": {
+	"lines": [
+	  {"speaker": "컴퓨터실 선생님", "text": "또 로그인? 예전에 캐시된 파일 있을 텐데..."},
+	  {"speaker": "동훈", "text": "찾았다! 이거면 될 것 같아!"}
+	]
+  },
+  "library_find": {
+	"lines": [
+	  {"speaker": "사서", "text": "쉿! 조용히 해. 지난주 인쇄본 아직 있어."},
+	  {"speaker": "동훈", "text": "감사합니다!!"}
+	]
+  },
+  "office_sneak": {
+	"lines": [
+	  {"speaker": "동훈", "text": "교무실 아무도 없다... 선생님 계정 메모!!"},
+	  {"speaker": "교장", "text": "거기 누구야?!"}
+	]
+  },
+  "friend_usb": {
+	"lines": [
+	  {"speaker": "친구", "text": "야 너 어제 USB에 백업해뒀잖아. 까먹었어?"},
+	  {"speaker": "동훈", "text": "천사야..."}
+	]
+  },
+  "teacher_spot": {
+	"lines": [
+	  {"speaker": "선생님", "text": "복도에서 뛰면 안 되지!"},
+	  {"speaker": "동훈", "text": "죄송합니다!!!"}
+	]
+  },
+  "final_perfect": {
+	"lines": [
+	  {"speaker": "동훈", "text": "자... 자료 열었습니다!"},
+	  {"speaker": "국어 선생님", "text": "드디어. 발표 시작해."},
+	  {"speaker": "동급생", "text": "와... 살았다."}
+	]
+  },
+  "final_improv": {
+	"lines": [
+	  {"speaker": "동훈", "text": "자료는... 없지만 제 기억으로 말씀드릴게요!"},
+	  {"speaker": "국어 선생님", "text": "음... 점수는 깎지만, 용기는 인정한다."}
+	]
+  }
+}

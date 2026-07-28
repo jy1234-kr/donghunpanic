@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://classmate001"]
+
+[ext_resource type="Script" path="res://scripts/npc/classmate_ai.gd" id="1"]
+
+[node name="Classmate" type="Node3D"]
+script = ExtResource("1")

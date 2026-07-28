@@ -1,0 +1,27 @@
+# Godot 4+ specific ignores
+.godot/
+*.translation
+export_presets.cfg.bak
+
+# Imported translations (automatically generated from CSV files)
+
+# Mono-specific ignores
+.mono/
+data_*/
+mono_crash.*.json
+
+# System/tool-specific ignores
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Build output
+build/
+*.exe
+*.pck
+*.zip
+
+# User-specific
+user://

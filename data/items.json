@@ -1,0 +1,18 @@
+{
+  "usb_backup": {
+	"name": "친구 USB",
+	"description": "어제 백업해둔 발표 파일이 들어있다."
+  },
+  "printed_notes": {
+	"name": "인쇄본",
+	"description": "도서관에 남아있던 지난주 인쇄본."
+  },
+  "cached_ppt": {
+	"name": "캐시 PPT",
+	"description": "컴퓨터실 PC에 남아있던 임시 파일."
+  },
+  "teacher_password": {
+	"name": "교사 계정 메모",
+	"description": "교무실 책상 위 Post-it. 위험하지만 통한다."
+  }
+}
